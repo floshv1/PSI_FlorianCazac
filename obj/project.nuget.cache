@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "dgSpecHash": "8b2fQ3xT5cnNNK68oLo142okJUt1PsX4J0hsgikZTu9qpMzzy7NXVUbbDvRFRNCA9cMQtZldOEoHkSM8AwBNJw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\GHKSF\\OneDrive - De Vinci\\A2\\Semestre 2\\Prob Info\\PSI_Projet_SouidiCazac\\PSI_SouidiCazac\\PSI_SouidiCazac.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\GHKSF\\.nuget\\packages\\consoleappvisuals\\3.5.2\\consoleappvisuals.3.5.2.nupkg.sha512",
+    "C:\\Users\\GHKSF\\.nuget\\packages\\microsoft.win32.systemevents\\8.0.0\\microsoft.win32.systemevents.8.0.0.nupkg.sha512",
+    "C:\\Users\\GHKSF\\.nuget\\packages\\system.drawing.common\\8.0.3\\system.drawing.common.8.0.3.nupkg.sha512",
+    "C:\\Users\\GHKSF\\.nuget\\packages\\xunit\\2.8.0\\xunit.2.8.0.nupkg.sha512",
+    "C:\\Users\\GHKSF\\.nuget\\packages\\xunit.abstractions\\2.0.3\\xunit.abstractions.2.0.3.nupkg.sha512",
+    "C:\\Users\\GHKSF\\.nuget\\packages\\xunit.analyzers\\1.13.0\\xunit.analyzers.1.13.0.nupkg.sha512",
+    "C:\\Users\\GHKSF\\.nuget\\packages\\xunit.assert\\2.8.0\\xunit.assert.2.8.0.nupkg.sha512",
+    "C:\\Users\\GHKSF\\.nuget\\packages\\xunit.core\\2.8.0\\xunit.core.2.8.0.nupkg.sha512",
+    "C:\\Users\\GHKSF\\.nuget\\packages\\xunit.extensibility.core\\2.8.0\\xunit.extensibility.core.2.8.0.nupkg.sha512",
+    "C:\\Users\\GHKSF\\.nuget\\packages\\xunit.extensibility.execution\\2.8.0\\xunit.extensibility.execution.2.8.0.nupkg.sha512",
+    "C:\\Users\\GHKSF\\.nuget\\packages\\yamldotnet\\15.1.2\\yamldotnet.15.1.2.nupkg.sha512",
+    "C:\\Users\\GHKSF\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.31\\microsoft.netcore.app.ref.6.0.31.nupkg.sha512",
+    "C:\\Users\\GHKSF\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.31\\microsoft.windowsdesktop.app.ref.6.0.31.nupkg.sha512",
+    "C:\\Users\\GHKSF\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.31\\microsoft.aspnetcore.app.ref.6.0.31.nupkg.sha512",
+    "C:\\Users\\GHKSF\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.31\\microsoft.netcore.app.host.win-x64.6.0.31.nupkg.sha512"
+  ],
+  "logs": []
+}
